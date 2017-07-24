@@ -7,3 +7,5 @@ spring mvc project template 선택이 되지 않는 경우
 2. Select Configure templates.. (blue link).
 3. In Template Projects window, delete "spring-data-gemfire" and "spring-integration", and check "Show self-hosted templates ..." (at bottom), and then press Apply -> OK
 4. Just wait while refreshing process, and "Spring MVC Project" should be showed.
+
+ :https://stackoverflow.com/questions/13533123/spring-tool-suite-missing-spring-mvc-project-template
